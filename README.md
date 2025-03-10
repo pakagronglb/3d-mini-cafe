@@ -2,6 +2,12 @@
 
 A beautiful 3D cafe experience built with React Three Fiber featuring shader transitions, interactive models, and stunning visual effects.
 
+
+
+https://github.com/user-attachments/assets/7b7c6c0d-82b8-423d-a9dd-a665c08fc135
+
+
+
 ## Features
 
 - 🎨 Custom shader transitions between screens and models
